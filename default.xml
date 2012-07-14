@@ -16,5 +16,5 @@
 
   <project path="frameworks/base" name="Androlus/android_frameworks_base" remote="privategh" revision="jb-release" />
 
-  <project path="android" name="Andromadus/android" remote="privategh" />
+  <project path="android" name="Androlus/android" remote="privategh" revision="jelly-bean" />
 </manifest>
