@@ -1,0 +1,20 @@
+<manifest>
+
+  <remote  name="aosp"
+           fetch="https://android.googlesource.com/" />
+
+  <remote  name="github"
+           fetch="git://github.com/" 
+           review="review.cyanogenmod.com" />
+
+  <remote name = "privategh"
+           fetch="git://github.com/" />
+
+  <default revision="refs/heads/ics"
+           remote="github"
+           sync-j="4" />
+
+  <project path="frameworks/base" name="Androlus/android_frameworks_base" remote="privategh" revision="jb-release" />
+
+  <project path="android" name="Andromadus/android" remote="privategh" />
+</manifest>
