@@ -18,5 +18,5 @@
   <project path="device/htc/pyramid" name="Androlus/android_device_htc_pyramid" remote="privategh" revision="jelly-bean" />
   <project path="device/htc/msm8660-common" name="Androlus/android_device_htc_msm8660-common" remote="privategh" revision="jelly-bean" />
   <project path="bionic" name="android_bionic" remote="privategh" revision="jelly-bean" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="privategh" revision="jelly-bean" /> 
+  <project path="frameworks/base" name="android_frameworks_base" remote="privategh" revision="jb-release" /> 
   </manifest>
