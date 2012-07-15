@@ -314,4 +314,5 @@
   <project path="frameworks/base" name="Androlus/android_frameworks_base" remote="privategh" revision="jb-release" /> 
   <project path="vendor/htc/pyramid" name="Androlus/android_vendor_htc_pyramid" remote="privategh" revision="opensensation" />
   <project path="vendor/cm" name="Androlus/android_vendor_cm" remote="privategh" revision="jelly-bean" />
+  <project path="hardware/qcom/gps" name="Androlus/android_hardware_qcom_gps" remote="privategh" revision="jellybean" />
   </manifest>
