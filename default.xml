@@ -18,7 +18,6 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
-  <project path="bionic" name="platform/bionic" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="platform/bootable/recovery" />
@@ -314,5 +313,6 @@
   <project path="hardware/qcom/display" name="Androlus/android_hardware_qcom_display" remote="privategh" revision="jelly-bean" />
   <project path="device/htc/pyramid" name="Androlus/android_device_htc_pyramid" remote="privategh" revision="jelly-bean" />
   <project path="device/htc/msm8660-common" name="Androlus/android_device_htc_msm8660-common" remote="privategh" revision="jelly-bean" />
+  <project path="bionic" name="android_bionic" remote="privategh" revision="jelly-bean" />
   
   </manifest>
